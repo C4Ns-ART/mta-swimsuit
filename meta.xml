@@ -1,0 +1,5 @@
+<meta>
+	<info author="C4N" name="Swimsuit System" version="0.0.1" type="script" description="Swimsuit System for RP/RPG" />
+	<script src="c_swimsuit.lua" type="client" cache="false" />
+	<script src="s_swimsuit.lua" type="server" />
+</meta>
